@@ -1,7 +1,7 @@
 ---
 title: "第一章"
 description: "Lorem ipsum dolor sit amet"
-pubDate: "8月 26日 2026"
+pubDate: "2026-08-26"
 heroImage: "/blog-placeholder-3.jpg"
 ---
 
